@@ -1,0 +1,2 @@
+# HTTPGETSample_forMSX0
+MSX0のソケット通信でHTTPのGETをしてSCREEN2の画像を表示します
